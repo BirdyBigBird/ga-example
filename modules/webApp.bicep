@@ -1,6 +1,6 @@
 param location string = 'westeurope'
 
-param namePrefix string = 'itosx'
+param namePrefix string = 'itosx1904'
 param appPlanId string
 
 param dockerImage string = 'ubuntu/nginx'
